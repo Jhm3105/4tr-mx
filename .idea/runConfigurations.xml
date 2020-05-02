@@ -16,3 +16,5 @@ v02.61 () Copyright 195-2006, American Megarends, Inc
 </ opción >
 
   </     componente     >
+$ eval "$(ssh-agent -s)"
+> Agent pid 59566
