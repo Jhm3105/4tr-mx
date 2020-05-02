@@ -5,12 +5,14 @@
       <set>
         <option value="org.jetbrains.plugins.gradle.execution.test.runner.AllInPackageGradleConfigurationProducer" />
         <option value="org.jetbrains.plugins.gradle.execution.test.runner.TestClassGradleConfigurationProducer" />
-        <option value="org.jetbrains.plugins.gradle.execution.test.runner.TestMethodGradleConfigurationProducer" />
-      </set>
-    </option>
-  </    componente    >
-< proyecto Versión = "usb2.0" >
+        <     option      value = "org.jetbrains.plugins.gradle.execution.test.runner.TestMethodGradleConfigurationProducer"     ñ     />
+
 Nombre del PROYETOA780L3C
 UTILIDAD DE CONFIGURACIÓN DEL BIOS (A78LK-M3S
 v02.61 () Copyright 195-2006, American Megarends, Inc
-</  proyecto>	
+</    proyecto  >	
+</ set >
+
+</ opción >
+
+  </     componente     >
